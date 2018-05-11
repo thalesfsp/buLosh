@@ -1,5 +1,5 @@
 {
-  "name": "buLosh",
+  "name": "bulosh",
   "version": "0.0.1",
   "description": "Logstash plugin for Bunyan based on sheknows/bunyan-logstash",
   "repository": "https://github.com/thalesfsp/bunyan-logstash.git",
